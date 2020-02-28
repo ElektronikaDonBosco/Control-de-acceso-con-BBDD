@@ -1,12 +1,12 @@
-# Control de acceso
+# **Control de acceso**
 
-  # Introducción
+  # **Introducción**
   ### En este proyecto hemos hecho un control de acceso con varios componentes.
   
-  # Esquema general
+  # **Esquema general**
   ![](https://lh3.googleusercontent.com/K-c2ik4DJ0-8h-nurbdi9k-uAy1ctKgnbW3O8mtRsNSokAOZNzNiIMDtQZpuoY54uEdKFA=s162)
                                                                                               
-  # Elementos utilizados
+  # **Elementos utilizados**
   ### En este apartado pondremos los elementos mas importantes que hemos utilizado.
   ## 1.  Arduino Mega 2560
   ### Este es el cerebro que administra los diferentes dispositivos que encontramos en el proyecto.
@@ -26,15 +26,41 @@
   ## 6. Pantalla LCD
   ### La pantalla lo hemos utilizado para mostrar los diferentes textos que encontramos en la programacion.
   ![](https://www.tvnalber.com/content/images/thumbs/0193151_modulo-pantalla-lcd-16x2-caracteres-compatible-arduino.jpeg)
-  # Conexiones
+  # **Conexiones**
   ### En este apartado explicaremos las diferentes conexiones de los modulos que se encuentran en nuestro proyecto. 
   a continuacion,explicaremos las conexiones que hemos hecho en el RFID:
- ###  Pines       Arduino Mega
-     * RST          D8
-     * SDA(SS)      D9
-     * MOSI         D51
-     * MISO         D50
-     * SCK          D52
+ ###
+     pines       Arduino mega
+     RST          D8
+     SDA(SS)      D9
+     MOSI         D51
+     MISO         D50
+     SCK          D52
+     VCC          3.3V
+     GND          GND
+  ### Para continuar pondremos los pines que hemos utilizado para el sensor de huellas:
+  ###
+    Pines     Arduino Mega
+    Huellas - Amarillo D11
+    Huellas - Blanco D10
+    VCC -     5V
+    GND -     GND
+  ### Para finalizar pondremos 
+  ###
+      Pines     Arduino mega
+      //VSS -   GND
+      //VDD     + 5
+      //A       + 5
+      //K -     GND
+      //VO      MEDIO POT
+      //RS      D2
+      //RW -    GND
+      //E       D3
+      //D4      D4
+      //D5      D5 
+      //D6      D6
+      //D7      D7
+
    
   
   
