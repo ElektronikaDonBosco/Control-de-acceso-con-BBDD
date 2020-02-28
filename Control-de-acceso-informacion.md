@@ -25,7 +25,16 @@
    ![](https://www.tiendatec.es/3393-large_default/buzzer-zumbador-activo-electromagnetico-5v.jpg)
   ## 6. Pantalla LCD
   ### La pantalla lo hemos utilizado para mostrar los diferentes textos que encontramos en la programacion.
-  
+  ![](https://www.tvnalber.com/content/images/thumbs/0193151_modulo-pantalla-lcd-16x2-caracteres-compatible-arduino.jpeg)
+  # Conexiones
+  ### En este apartado explicaremos las diferentes conexiones de los modulos que se encuentran en nuestro proyecto. 
+  a continuacion,explicaremos las conexiones que hemos hecho en el RFID:
+ ###  Pines       Arduino Mega
+     * RST          D8
+     * SDA(SS)      D9
+     * MOSI         D51
+     * MISO         D50
+     * SCK          D52
    
   
   
