@@ -18,10 +18,10 @@
   # Elementos utilizados
    En este apartado pondremos los elementos mas importantes que hemos utilizado.
   ## 1.  Arduino Mega 2560
-   Este es el cerebro que administra los diferentes dispositivos que encontramos en el proyecto.
+    Este es el cerebro que administra los diferentes dispositivos que encontramos en el proyecto.
   ![](https://cdn-tienda.bricogeek.com/949-thickbox_default/arduino-mega-2560.jpg)
-  ## 2. NodeMCU 
-   este modulo lo conectaremos a un Internet para que nos envié los datos a una base de datos en drive.
+  ### 2.NodeMCU 
+    Este modulo lo conectaremos a un Internet para que nos envié los datos a una base de datos en drive.
   ![](https://cdn-tienda.bricogeek.com/4392-thickbox_default/nodemcu-v3-esp8266.jpg)
   ## 3. RFID
     Este modulo lo utilizaremos para hacer la lectura de tarjetas.
