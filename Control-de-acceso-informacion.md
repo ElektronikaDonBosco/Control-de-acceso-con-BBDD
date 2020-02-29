@@ -18,10 +18,14 @@
   # Elementos utilizados
    En este apartado pondremos los elementos mas importantes que hemos utilizado.
   ## 1.  Arduino Mega 2560
-    Este es el cerebro que administra los diferentes dispositivos que encontramos en el proyecto.
+   Este es el cerebro que administra los diferentes dispositivos que encontramos en el proyecto. Tiene un voltaje de 
+   entrada de 7v-12v. En el pin de entrada/salida de 5v tiene una corriente de 40mA y en el pin de entrada/salida de 3,3v 
+   tiene una corriente de 50mA. Tiene una velocidad de reloj de 16Mhz y una memoria EEPROM de 4kb.
   ![](https://cdn-tienda.bricogeek.com/949-thickbox_default/arduino-mega-2560.jpg)
   ### 2.NodeMCU 
-    Este modulo lo conectaremos a un Internet para que nos envié los datos a una base de datos en drive.
+    Este módulo lo conectaremos a un Internet para que nos envié los datos a una base de datos en drive. La placa se  
+    alimenta a 5v, En el pin de entrada/salida de 5v tiene una corriente de 10mA y en el pin de entrada/salida de 3,3v 
+    tiene una corriente de 12mA. Tiene una velocidad de reloj de 26-52Mhz y tiene una memoria Sram de 64kb. 
   ![](https://cdn-tienda.bricogeek.com/4392-thickbox_default/nodemcu-v3-esp8266.jpg)
   ## 3. RFID
     Este modulo lo utilizaremos para hacer la lectura de tarjetas.
