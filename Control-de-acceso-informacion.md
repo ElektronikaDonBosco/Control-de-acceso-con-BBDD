@@ -22,6 +22,7 @@
    entrada de 7v-12v. En el pin de entrada/salida de 5v tiene una corriente de 40mA y en el pin de entrada/salida de 3,3v 
    tiene una corriente de 50mA. Tiene una velocidad de reloj de 16Mhz y una memoria EEPROM de 4kb.
   ![](https://cdn-tienda.bricogeek.com/949-thickbox_default/arduino-mega-2560.jpg)
+  ![](https://content.arduino.cc/assets/Pinout-Mega2560rev3_latest.png)
   ## 2.NodeMCU 
     Este módulo lo conectaremos a un Internet para que nos envié los datos a una base de datos en drive. La placa se  
     alimenta a 5v, En el pin de entrada/salida de 5v tiene una corriente de 10mA y en el pin de entrada/salida de 3,3v 
