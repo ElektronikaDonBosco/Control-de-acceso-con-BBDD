@@ -94,7 +94,10 @@
      * Movimiento de puerta. No tuvimos tiempo para poner unas bisagras y tuvimos que poner una puerta impresa en 3d.
      * Comunicación nodeMCU/Arduino Mega. No conseguíamos realizar la comunicación.
 
-     # Software/ NodeMCU 
+     # Software 
+      
+     **NodeMCU**
+
     `#include <ESP8266WiFi.h>
      #include "HTTPSRedirect.h"
      #include "DebugMacros.h"
@@ -215,9 +218,9 @@
      }
      else {return;}
      }
+
+__Control de acceso__
  
- 
-    ### Software/Control de acceso
 
     `//Librerías
 
@@ -235,7 +238,7 @@
   
     `//Comunicaciones
 
-     SoftwareSerial mySerial(11, 10);  // _Comunicación lector de huellas_
+     SoftwareSerial mySerial(11, 10);  // Comunicación lector de huellas
 
      Adafruit_Fingerprint finger = Adafruit_Fingerprint(&mySerial);
 
@@ -296,9 +299,9 @@
      uint8_t id;`
 
      `void setup() {
-      Serial.begin(9600);    //_ Puerto Serie_
-      SPI.begin();           // _Iniciar SPI_
-      mfrc522.PCD_Init();    // _Iniciar MFRC522_
+      Serial.begin(9600);    // Puerto Serie
+      SPI.begin();           // Iniciar SPI
+      mfrc522.PCD_Init();    // Iniciar MFRC522
       pinMode (led, OUTPUT);
       pinMode (rojo, OUTPUT);
       pinMode (encendido, OUTPUT);
@@ -316,7 +319,7 @@
       lcd.write("Acceso..........");
       digitalWrite (output, HIGH);
 
-      //_Detectar lector huella_
+      // Detectar lector huella
 
       while (!Serial);  
       delay(100);
