@@ -13,7 +13,7 @@
    Lector de huellas, Botones, buzzer y potenciometro. En otro apartado explicaremos para que sirve cada uno de ellos.
   
   # Esquema general
-  ![](https://lh3.googleusercontent.com/K-c2ik4DJ0-8h-nurbdi9k-uAy1ctKgnbW3O8mtRsNSokAOZNzNiIMDtQZpuoY54uEdKFA=s162)
+  
                                                                                               
   # Elementos utilizados
    En este apartado pondremos los elementos mas importantes que hemos utilizado.
