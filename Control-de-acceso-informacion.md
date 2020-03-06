@@ -111,18 +111,20 @@
 
      # Anexos
      ## Listado de materiales y datasheet
-     * 3 x Leds 
-     * 3 x Botones
-     * 6 X Resistencias(220 X3) y (10k X3)
-     * 1 X pantalla LCD
-     * 1 X Arduino Mega
-     * 1 X NodeMCU
-     * 1 X RFID (Lector de tarjetas y llaves electrónicas)
-     * 1 X Lector de huellas
-     * 1 X Servomotor
-     * 1 X Buzzer
-     * 1 X Potenciometro 10k
-     * Metraquilato
+     * 3 x Leds   http://www1.futureelectronics.com/doc/EVERLIGHT%C2%A0/334-15__T1C1-4WYA.pdf
+     * 3 x Botones  https://www.arduino.cc/documents/datasheets/Button.pdf
+     * 6 X Resistencias(220 X3) y (10k X3)     
+     * 1 X pantalla LCD   https://components101.com/sites/default/files/component_datasheet/16x2%20LCD%20Datasheet.pdf
+     * 1 X Arduino Mega  http://manueldelgadocrespo.blogspot.com/p/arduino-mega-2560.html
+     * 1 X NodeMCU  https://cdn-shop.adafruit.com/datasheets/ESP8266_Specifications_English.pdf
+     * 1 X RFID (Lector de tarjetas y llaves electrónicas)  http://www.puntoflotante.net/RC522-RFID.htm
+     * 1 X Lector de huellas https://candy-ho.com/Drivers/huellas.pdf
+     * 1 X Servomotor http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf
+     * 1 X Buzzer  https://components101.com/sites/default/files/component_datasheet/Buzzer%20Datasheet.pdf
+     * 1 X Potenciometro 10k  https://www.sparkfun.com/datasheets/Components/General/R12-0-.pdf
+     * Metraquilato 
+     
+     
    
      
      
