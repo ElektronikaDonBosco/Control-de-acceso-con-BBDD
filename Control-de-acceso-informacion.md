@@ -99,6 +99,34 @@
       
      El software estará en el apartado de code de esta misma pagina. A continuación pondremos un enlace , la cual podréis 
      acceder a las diferentes programaciones: https://github.com/Jon123456789-cmd/Control-de-acceso-con-base-de-datos.
+
+     # Referencias
+     En este apartado pondremos las diferentes referencias en las que hemos encontrado la información:
+     * http://elcajondeardu.blogspot.com/2013/12/tutorial-conectando-una-pantalla-lcd.html
+     * https://www.instructables.com/id/MFRC522-RFID-Reader-Interfaced-With-NodeMCU/
+     * https://www.theengineeringprojects.com/2015/12/arduino-mega-2560-library-proteus.html
+     * https://www.prometec.net/lector-de-huellas/
+     * https://forum.arduino.cc/index.php?topic=292255.0 (Huella dactilar)
+     * https://forum.arduino.cc/index.php?topic=499058.0 (Arduino Mega con RFID)
+
+     # Anexos
+     ## Listado de materiales y datasheet
+     * 3 x Leds 
+     * 3 x Botones
+     * 6 X Resistencias(220 X3) y (10k X3)
+     * 1 X pantalla LCD
+     * 1 X Arduino Mega
+     * 1 X NodeMCU
+     * 1 X RFID (Lector de tarjetas y llaves electrónicas)
+     * 1 X Lector de huellas
+     * 1 X Servomotor
+     * 1 X Buzzer
+     * 1 X Potenciometro 10k
+     * Metraquilato
+   
+     
+     
+      
         
         
       
