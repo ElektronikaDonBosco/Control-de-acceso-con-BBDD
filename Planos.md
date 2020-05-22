@@ -7,3 +7,6 @@ En este apartado vamos a poner fotos de las diferentes perspectivas de nuestro p
 
 ### Esquema eléctrico
 En este apartado voy a poner los esquemas eléctricos de cada uno de los componentes y luego vamos a juntarlos en entre sí. Primeramente vamos a empezar poniendo el esquema eléctrico del arduino mega:
+![](https://raw.githubusercontent.com/Jon123456789-cmd/Control-de-acceso-con-base-de-datos/master/imagenes/esquema%201.png)
+
+A continuación pondré el esquema eléctrico del NodeMCU:
