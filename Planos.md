@@ -16,4 +16,8 @@ A continuación pondré el esquema eléctrico del NodeMCU:
 
 Para continuar pondremos el esquema eléctrico de la pantalla LCD:
 
+![](https://raw.githubusercontent.com/Jon123456789-cmd/Control-de-acceso-con-base-de-datos/master/imagenes/esquema%203.png)
+
+Después pondremos el esquema eléctrico del módulo RFID:
+
 
