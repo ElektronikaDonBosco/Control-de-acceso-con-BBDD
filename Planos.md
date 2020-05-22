@@ -1,1 +1,2 @@
-njjhjkkh
+### Perspectivas de nuestro proyecto
+En este apartado vamos a poner fotos de las diferentes perspectivas de nuestro proyecto, alguna serán fotos tomadas de nuestro proyecto real y otras sacadas de un cubo de Freecad:
