@@ -32,3 +32,5 @@ En nuestro caso la placa PCB tiene las  pistas en la cara  bottom y los pines de
 
 ![](https://raw.githubusercontent.com/Jon123456789-cmd/Control-de-acceso-con-base-de-datos/master/imagenes/pcbs.png)
 
+https://raw.githubusercontent.com/Jon123456789-cmd/Control-de-acceso-con-base-de-datos/master/imagenes/pcb%20pines%20de%20alimentacion.png
+
