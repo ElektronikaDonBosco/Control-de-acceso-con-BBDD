@@ -10,3 +10,10 @@ En este apartado voy a poner los esquemas eléctricos de cada uno de los compone
 ![](https://raw.githubusercontent.com/Jon123456789-cmd/Control-de-acceso-con-base-de-datos/master/imagenes/esquema%201.png)
 
 A continuación pondré el esquema eléctrico del NodeMCU:
+
+
+![](https://raw.githubusercontent.com/Jon123456789-cmd/Control-de-acceso-con-base-de-datos/master/imagenes/esquema%202.png)
+
+Para continuar pondremos el esquema eléctrico de la pantalla LCD:
+
+
