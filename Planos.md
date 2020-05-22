@@ -24,5 +24,10 @@ Después pondremos el esquema eléctrico del módulo RFID:
 
 Para continuar voy a poner el esquema eléctrico de la huella dactilar con arduino:
 
+![](https://raw.githubusercontent.com/Jon123456789-cmd/Control-de-acceso-con-base-de-datos/master/imagenes/esquema%205.png)
+
+### PCB
+En este apartado vamos a explicar la parte de la PCB especificando si la placa es top o bottom y donde hemos colocado los componentes. 
+En nuestro caso la placa PCB tiene las  pistas en la cara  bottom y los pines de la PCBs son los componentes top, a continuación podremos imágenes para que sea más visual:
 
 
