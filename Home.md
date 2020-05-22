@@ -1,1 +1,1 @@
-Welcome to the Control-de-acceso-con-base-de-datos wiki!
+Esta pagina es informativa para advertir de que la información sobre el proyecto están en las otras paginas. 
