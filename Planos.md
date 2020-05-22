@@ -20,4 +20,9 @@ Para continuar pondremos el esquema eléctrico de la pantalla LCD:
 
 Después pondremos el esquema eléctrico del módulo RFID:
 
+![](https://raw.githubusercontent.com/Jon123456789-cmd/Control-de-acceso-con-base-de-datos/master/imagenes/Esquema%204.png)
+
+Para continuar voy a poner el esquema eléctrico de la huella dactilar con arduino:
+
+
 
