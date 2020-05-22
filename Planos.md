@@ -36,15 +36,17 @@ En nuestro caso la placa PCB tiene las  pistas en la cara  bottom y los pines de
 
 ### Referencias
 
-•	Proteus
+En este apartado vamos a poner todos los links que hemos utilizado para hacer este trabajo y también pondremos los links de los programas mencionados durante todo el trabajo:
 
-•	CircuitCAM
+•	[Proteus](https://www.labcenter.com/)
 
-•	ArduinoIDE
+•	[Circuitcam](https://www.circuitcam.com/)
 
-•	Esquema eléctrico NodeMCU
+•	[AeduinoIDE](https://www.arduino.cc/en/Main/Software)
 
-•	Esquema eléctrico del lector de huellas
+•	[Esquema electrico nodeMCU](https://www.hwlibre.com/wp-content/uploads/2018/04/diagrama.jpg)
 
-•	Esquema eléctrico NodeMCU
+•	[Esquema Electrico Lector de Huella](https://www.hwlibre.com/wp-content/uploads/2018/04/diagrama.jpg)
+
+•	[Esquema electrico arduino mega](https://www.arduino.cc/en/uploads/Main/arduino-mega2560-schematic.pdf)
 
