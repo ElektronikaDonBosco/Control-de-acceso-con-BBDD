@@ -117,7 +117,7 @@
    pantalla imprimiendo algún texto en ella con su programa Arduino pertinente. A continuación, enseñaré las conexiones de 
    la pantalla:
 
-   
+   ![](https://raw.githubusercontent.com/Jon123456789-cmd/Control-de-acceso-con-base-de-datos/master/imagenes/Pantalla%20paso%203.png)
 
    ### NodeMCU
    Primeramente lo conectaremos a la línea de 5v y a la de GND. Luego La pata 22 del NodeMCU ira al pin 15 del Arduino 
