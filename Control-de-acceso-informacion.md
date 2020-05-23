@@ -96,6 +96,27 @@
    registrar huellas dactilares y luego subido el programa de comprobar las huellas para saber si se habían guardado 
    correctamente. Ahora pondremos una imagen de las conexiones: 
 
+   ![](https://raw.githubusercontent.com/Jon123456789-cmd/Control-de-acceso-con-base-de-datos/master/imagenes/Lector%20de%20huellas.png)
+
+   ### Pantalla
+   El primer paso ha sido conectar la alimentación que serían los 5v y los GND  correspondientes de la pantalla. Luego, 
+   conectaremos los 5v y el GND de la protoboard al Arduino mega para crear una línea de alimentación, para continuar 
+   deberemos conectar el Arduino mega al ordenador a través de USB y  comprobar si la pantalla enciende para comprobar su 
+   correcto funcionamiento.
+
+   
+
+   En el segundo paso tendremos que conectar un potenciómetro de 50kohmnios, la cual nos servirá para cambiar el contraste 
+   de la pantalla. A continuación, conectaremos una pata a 5v, La pata del medio al pin VO de la pantalla y otra al GND. 
+   Para finalizar volveremos a conectar el Arduino mega a través de  USB y tendrían que salir unos cuadrados en la 
+   pantalla, esos cuadrados los eliminaremos moviendo el potenciómetro hasta que desaparezcan.
+
+   
+
+   En el último paso haremos las conexiones, las cuales están mencionadas en la parte de conexiones. Luego, probaremos la 
+   pantalla imprimiendo algún texto en ella con su programa Arduino pertinente. A continuación, enseñaré las conexiones de 
+   la pantalla:
+
    # Coclusiones
    En este apartado vamos a analizar las posibles mejoras que tiene nuestro proyecto y también explicaremos las diferentes 
    dificultades que hemos tenido durante el reto:
