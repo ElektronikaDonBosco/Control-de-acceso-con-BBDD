@@ -117,6 +117,15 @@
    pantalla imprimiendo algún texto en ella con su programa Arduino pertinente. A continuación, enseñaré las conexiones de 
    la pantalla:
 
+   
+
+   ### NodeMCU
+   Primeramente lo conectaremos a la línea de 5v y a la de GND. Luego La pata 22 del NodeMCU ira al pin 15 del Arduino 
+   mega, también la pata 23 del módulo ira al pin 14 del Arduino y a través del softwareserial haremos la comunicación que 
+   nos permitirá conectar el NodeMCU con el Arduino Mega en la programación de Arduino IDE.
+
+   
+
    # Coclusiones
    En este apartado vamos a analizar las posibles mejoras que tiene nuestro proyecto y también explicaremos las diferentes 
    dificultades que hemos tenido durante el reto:
