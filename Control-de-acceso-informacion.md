@@ -104,7 +104,7 @@
    deberemos conectar el Arduino mega al ordenador a través de USB y  comprobar si la pantalla enciende para comprobar su 
    correcto funcionamiento.
 
-   
+   ![](https://raw.githubusercontent.com/Jon123456789-cmd/Control-de-acceso-con-base-de-datos/master/imagenes/Pantalla%20paso%201.png)
 
    En el segundo paso tendremos que conectar un potenciómetro de 50kohmnios, la cual nos servirá para cambiar el contraste 
    de la pantalla. A continuación, conectaremos una pata a 5v, La pata del medio al pin VO de la pantalla y otra al GND. 
