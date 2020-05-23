@@ -111,7 +111,7 @@
    Para finalizar volveremos a conectar el Arduino mega a través de  USB y tendrían que salir unos cuadrados en la 
    pantalla, esos cuadrados los eliminaremos moviendo el potenciómetro hasta que desaparezcan.
 
-   
+   ![](https://raw.githubusercontent.com/Jon123456789-cmd/Control-de-acceso-con-base-de-datos/master/imagenes/Pantalla%20paso%202.png)
 
    En el último paso haremos las conexiones, las cuales están mencionadas en la parte de conexiones. Luego, probaremos la 
    pantalla imprimiendo algún texto en ella con su programa Arduino pertinente. A continuación, enseñaré las conexiones de 
