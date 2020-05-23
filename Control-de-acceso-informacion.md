@@ -89,9 +89,13 @@
    Luego, subimos un programa básico para comprobar si el RFID funciona correctamente y entender su funcionamiento. A 
    continuación pondremos  una foto de las conexiones : 
 
-   
+   ![](https://raw.githubusercontent.com/Jon123456789-cmd/Control-de-acceso-con-base-de-datos/master/imagenes/RFID.png)
 
-   
+   ### Lector de Huellas
+   A continuación, hemos conectado el lector de huellas en el Arduino mega y hemos procedido a meterle el programa de 
+   registrar huellas dactilares y luego subido el programa de comprobar las huellas para saber si se habían guardado 
+   correctamente. Ahora pondremos una imagen de las conexiones: 
+
    # Coclusiones
    En este apartado vamos a analizar las posibles mejoras que tiene nuestro proyecto y también explicaremos las diferentes 
    dificultades que hemos tenido durante el reto:
