@@ -82,6 +82,15 @@
    con el ordenador, y el serie es para cumplir diferentes comunicaciones en el proyecto (Lector de huellas y NodeMCU).
    
    # Testeo y ajustes
+   En este apartado explicaremos cómo hemos ido probando cada uno de los bloques del proyecto :
+
+   ### Rfid
+   Para comenzar, hemos empezado conectando el RFID a una protoboard haciendo las conexiones pertinentes al Arduino mega. 
+   Luego, subimos un programa básico para comprobar si el RFID funciona correctamente y entender su funcionamiento. A 
+   continuación pondremos  una foto de las conexiones : 
+
+   
+
    
    # Coclusiones
    En este apartado vamos a analizar las posibles mejoras que tiene nuestro proyecto y también explicaremos las diferentes 
