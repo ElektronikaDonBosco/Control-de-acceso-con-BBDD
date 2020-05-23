@@ -124,7 +124,7 @@
    mega, también la pata 23 del módulo ira al pin 14 del Arduino y a través del softwareserial haremos la comunicación que 
    nos permitirá conectar el NodeMCU con el Arduino Mega en la programación de Arduino IDE.
 
-   
+   ![](https://raw.githubusercontent.com/Jon123456789-cmd/Control-de-acceso-con-base-de-datos/master/imagenes/NodeMCU.png)
 
    # Coclusiones
    En este apartado vamos a analizar las posibles mejoras que tiene nuestro proyecto y también explicaremos las diferentes 
